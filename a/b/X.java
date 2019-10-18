@@ -9,8 +9,8 @@ public class X {
 
     public void z (){
         int ab = 10;
-        int cdp = ab * 5;
-        ab = cdp + 7;
+        int cd = ab * 5;
+        ab = cd + 7;
 
     }
 }
